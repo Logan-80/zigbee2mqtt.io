@@ -42,6 +42,11 @@ After this the device will automatically join. If this doesn't work, try with a 
 ![RTCGQ14LM pairing](../images/pairing/RTCGQ14LM_pairing.jpg)
 
 *Note: When you fail to pair a device, try replacing the battery, this could solve the problem.*
+or
+1. Disable z2m network join
+2. Wait a few minutes
+3. VERY IMPORTANT - Put P1 to pairing mode by holding it's button for more than 5 seconds (z2m joining disabled!)
+4. Enable z2m network join
 <!-- Notes END: Do not edit below this line -->
 
 
